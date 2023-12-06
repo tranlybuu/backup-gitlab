@@ -1,0 +1,4 @@
+GITLAB_URL=https://dev.gitlab.nongnghiepso.com/
+GITLAB_USER=
+GITLAB_PASSWORD=
+TIMEOUT=1

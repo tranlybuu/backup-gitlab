@@ -1,7 +1,7 @@
 # Crawl các repo trên gitlab
 
 ## Yêu cầu: 
-- Python version bé 3.12 `python -V` (Gợi ý: ver3.11)
+- Python version bé hơn 3.12 `python -V` (Gợi ý: version 3.11)
 - Cập nhật chrome lên phiên bản mới nhất (Mở chrome và truy cập `chrome://settings/help` để cập nhật - Hiện tại: ver120.0.6099.63)
 
 ## Sử dụng
